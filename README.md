@@ -2,8 +2,8 @@
 
 ## Contents
   
-  data.csv : Data file contaning values.
-  diabetes_svm.ipynb : Jupiter notebook containing code.
+  1. data.csv : Data file contaning values.
+  2. diabetes_svm.ipynb : Jupiter notebook containing code.
   
 ## Libraries used
   1. Pandas
